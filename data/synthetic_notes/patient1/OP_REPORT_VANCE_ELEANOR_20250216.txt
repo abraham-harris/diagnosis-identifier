@@ -1,0 +1,30 @@
+OPERATIVE REPORT
+
+PATIENT NAME: VANCE, ELEANOR
+MRN: 9876543
+DOB: 07/16/1945
+DATE OF SURGERY: 02/16/2025
+PREOPERATIVE DIAGNOSIS: Displaced intertrochanteric fracture, left femur.
+POSTOPERATIVE DIAGNOSIS: Displaced intertrochanteric fracture, left femur.
+PROCEDURE PERFORMED: Open Reduction and Internal Fixation (ORIF) of left intertrochanteric femur fracture with dynamic hip screw (DHS).
+SURGEON: Robert Miller, MD
+ASSISTANT: Sarah Jones, PA-C
+ANESTHESIA: General endotracheal. Dr. Kim.
+ESTIMATED BLOOD LOSS: 350 mL
+SPECIMENS: None.
+IMPLANTS: Dynamic Hip Screw System (Specifics: Lag screw [Length, Diameter], Side Plate [Angle, Holes], Cortical Screws [Number, Lengths] - *Details typically auto-populated from implant log*).
+COMPLICATIONS: None intraoperatively.
+
+INDICATIONS FOR PROCEDURE:
+Ms. Vance is a 79-year-old female who sustained a displaced left intertrochanteric femur fracture after a fall. Radiographs demonstrate significant displacement. Surgical fixation is indicated for fracture stability, pain relief, and mobilization. Risks, benefits, alternatives discussed with patient and son (via phone), consent obtained.
+
+DESCRIPTION OF PROCEDURE:
+The patient was brought to the operating room and placed supine on the fracture table. General anesthesia was induced. Left lower extremity was prepped and draped in the usual sterile fashion. Prophylactic antibiotics (Ancef 1g IV) were administered prior to incision.
+A lateral incision was made over the greater trochanter and extended distally along the femoral shaft. The fascia lata was incised. The vastus lateralis was reflected anteriorly, exposing the proximal femur and fracture site. The fracture was identified as an unstable 3-part intertrochanteric fracture.
+Under fluoroscopic guidance, the fracture was reduced anatomically using manual traction and manipulation. Provisional fixation was achieved with Kirschner wires.
+A guide pin for the lag screw was inserted into the femoral head, aiming for the center-center position on AP and lateral views. The position was confirmed with fluoroscopy. The appropriate length lag screw was determined, and the triple reamer was used. The lag screw was inserted.
+A 4-hole 135-degree side plate was applied to the lateral aspect of the femur and secured to the lag screw. The plate was then fixed to the femoral shaft using four cortical screws. Excellent compression was achieved across the fracture site. Final fluoroscopic images confirmed anatomical reduction and appropriate hardware placement.
+The wound was thoroughly irrigated with antibiotic solution. Hemostasis was achieved. The vastus lateralis was repaired. Fascia lata closed with Vicryl suture. Subcutaneous tissues closed with Vicryl. Skin closed with staples.
+A sterile dressing was applied. The patient tolerated the procedure well and was transferred to the PACU in stable condition. All counts (sponges, needles, instruments) were correct.
+
+Electronically Signed: Robert Miller, MD, Orthopedic Surgeon

@@ -1,0 +1,84 @@
+HOSPITAL DISCHARGE SUMMARY
+
+PATIENT NAME: VANCE, ELEANOR
+MRN: 9876543
+DOB: 07/16/1945
+ADMISSION DATE: 02/15/2025
+DISCHARGE DATE: 03/05/2025
+ADMITTING DIAGNOSIS: Left Intertrochanteric Femur Fracture.
+
+DISCHARGE DIAGNOSES:
+1.  Displaced fracture involving the upper part of the left thigh bone, near the hip (initial care for a closed fracture).
+2.  Parkinson's disease.
+3.  Lung inflammation caused by inhaling food or stomach contents (aspiration pneumonia).
+4.  Acute confusion that developed after surgery and was related to infection (delirium).
+5.  High blood pressure (essential hypertension).
+6.  Underactive thyroid gland (hypothyroidism).
+7.  Age-related bone thinning (osteoporosis), presumed.
+8.  Low vitamin D levels (vitamin D deficiency), currently being treated with replacement.
+9.  Difficulty swallowing, specifically affecting the mouth and throat (oropharyngeal dysphagia).
+10. Difficulty walking.
+11. Generalized weakness.
+12. History of previous falls.
+13. Temporary decline in kidney function upon admission, which has since resolved.
+
+PROCEDURES:
+1.  Surgical repair of the left hip fracture with internal fixation device (dynamic hip screw) - 02/16/2025.
+2.  Computed tomography (CT) scan of the chest - 02/25/2025.
+3.  Multiple X-rays (Hip, Chest).
+4.  Bedside swallow evaluation by Speech Language Pathologist.
+5.  Physical and Occupational Therapy evaluations and treatments.
+
+CONSULTATIONS:
+Orthopedics (Dr. Miller), Anesthesia, Hospitalist (Dr. Chen), Cardiology (Dr. Ramirez - pre-op), Geriatrics (Dr. Albright - delirium), Pulmonology (Dr. Singh - pneumonia, phone consult), Speech Therapy, Physical Therapy, Occupational Therapy, Case Management/Social Work.
+
+HOSPITAL COURSE:
+Ms. Eleanor Vance is a 79 y/o F with PMH of Parkinson's Disease, high blood pressure, and an underactive thyroid who presented to ED on 02/15/2025 after a fall at home resulting in a left upper thigh bone fracture near the hip.
+-   **Orthopedic:** Underwent surgical repair of the left hip fracture on 02/16/2025 by Dr. Miller. Post-operative course managed by Orthopedic and Hospitalist services. Wound clean, dry, intact at discharge. Instructed for toe-touch weight bearing on the left leg.
+-   **Delirium:** Developed acute confusion starting on the fourth day after surgery, characterized by disorientation and agitation. This was assessed as delirium. Managed with non-pharmacological interventions, environmental modifications, careful medication review (Amantadine held), and judicious use of low-dose Quetiapine. Geriatrics consulted. The delirium had largely resolved by discharge, though some mild residual disorientation was noted at times.
+-   **Aspiration Pneumonia:** On the eighth day after surgery, developed fever, cough, and low oxygen levels. Chest X-ray and subsequent Chest CT confirmed lung inflammation in the right lower lobe consistent with aspiration pneumonia. Sputum culture grew mixed oral flora. Treated with intravenous Ceftriaxone and Azithromycin (completed 7-day course of Ceftriaxone, 5 days Azithromycin). Clinically improved, afebrile, and oxygen saturation stable on room air at discharge.
+-   **Dysphagia:** Speech Language Pathology evaluation revealed moderate difficulty with swallowing in the mouth and throat area, with a risk for aspiration of thin liquids. Placed on pureed solids and nectar-thick liquids. Tolerating this diet at discharge.
+-   **Parkinson's Disease:** Home medications (Carbidopa/Levodopa CR, Sertraline, Levothyroxine, Lisinopril) continued. Amantadine held due to delirium. Ropinirole added by Neurology for motor symptoms during hospital stay. Medications timed carefully.
+-   **Mobility/Function:** Received Physical and Occupational Therapy. At discharge, requires moderate assistance for transfers, minimal assistance for bed mobility, and minimal to moderate assistance for activities of daily living. Ambulates short distances with a rolling walker and standby assistance.
+-   **Discharge Planning:** Extensive planning by Case Management/Social Work. Patient and son agree to Skilled Nursing Facility placement for continued rehabilitation.
+
+CONDITION AT DISCHARGE: Stable. Afebrile. Pain controlled on oral medications. Tolerating modified diet.
+DISPOSITION: Discharged to **Willow Creek Rehab Center**.
+
+MEDICATIONS AT DISCHARGE:
+1.  Carbidopa/Levodopa 50/200mg CR: 1 tab PO BID (e.g., 8 AM, 8 PM).
+2.  Ropinirole 0.5mg: 1 tab PO TID (e.g., 8 AM, 2 PM, 8 PM).
+3.  Lisinopril 10mg: 1 tab PO QD.
+4.  Levothyroxine 75mcg: 1 tab PO QAM (before breakfast).
+5.  Sertraline 25mg: 1 tab PO QD.
+6.  Oxycodone 5mg: 1-2 tabs PO Q4-6H PRN pain (Disp: #60).
+7.  Acetaminophen 500mg: 2 tabs PO Q6H PRN pain/fever (Max 3g/day).
+8.  Docusate Sodium 100mg: 1 cap PO BID.
+9.  Polyethylene Glycol 3350 (Miralax): 17g powder in 8oz liquid PO QD PRN constipation.
+10. Vitamin D3 2000 IU: 1 tab PO QD.
+11. Lovenox (Enoxaparin) 40mg SC QD x 14 days post-discharge (Total DVT prophx course 28 days from surgery). SNF to administer. First dose today 03/05. Last dose 03/18.
+12. Quetiapine 25mg: 1 tab PO QHS PRN severe agitation/insomnia (Disp: #14, use sparingly).
+
+DIET: Pureed solids, Nectar-thick liquids. Strict aspiration precautions.
+ACTIVITY: Toe-touch weight bearing on left leg. Physical and Occupational Therapy as tolerated. Ambulate with rolling walker and standby assistance. Fall precautions.
+
+FOLLOW-UP APPOINTMENTS:
+1.  Orthopedics (Dr. Miller): Post-op check & staple removal in 10-14 days (approx. 03/15-03/19). SNF to arrange transport if still inpatient, or patient to arrange if discharged home from SNF.
+2.  PCP (Dr. Carter): Within 1-2 weeks of SNF discharge.
+3.  Neurology (Dr. Lee): Within 1 month of SNF discharge.
+4.  SNF to arrange any needed interim follow-ups (e.g. podiatry, dental if issues arise).
+
+PENDING RESULTS: None critical.
+
+PATIENT/FAMILY EDUCATION:
+-   Medication reconciliation, side effects, schedule (esp PD meds).
+-   Wound care (keep clean, dry, intact; signs of infection).
+-   Dietary modifications and aspiration precautions.
+-   Activity limitations and fall precautions.
+-   Importance of DVT prophylaxis continuation.
+-   Signs/symptoms requiring medical attention (fever, shortness of breath, chest pain, calf pain/swelling, worsening confusion, wound issues).
+-   SNF plan of care, goals.
+-   Discharge summary copy provided to patient/SNF.
+
+Electronically Signed: Lisa Chen, MD (Hospitalist)
+Cc: Dr. Robert Miller (Orthopedics), Dr. Emily Carter (PCP), Willow Creek Rehab Center

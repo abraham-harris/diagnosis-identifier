@@ -1,0 +1,67 @@
+EMERGENCY DEPARTMENT REPORT
+
+PATIENT NAME: VANCE, ELEANOR
+MRN: 9876543
+DOB: 07/16/1945
+ARRIVAL DATE/TIME: 02/15/2025 10:30
+CHIEF COMPLAINT: Fall, hip pain.
+
+HISTORY OF PRESENT ILLNESS:
+79 y/o F with PMH of Parkinson's Disease (on C/L CR, Amantadine), HTN, Hypothyroidism, brought in by neighbor via private vehicle. Pt states she was walking to bathroom around 2 AM this morning, experienced a "freeze" of her legs, and fell onto her L hip. Unable to get up. Lay on floor until neighbor found her approx 9 AM. Significant L hip pain, unable to bear weight. Denies LOC, head trauma, CP, SOB prior to fall. Last dose of PD meds yesterday evening. Last seen well yesterday.
+
+PMH: Parkinson's Disease, HTN, Hypothyroidism, OA, Vit D deficiency.
+PSH: Cholecystectomy, Appendectomy.
+MEDICATIONS (from pt list, accuracy uncertain):
+- Carbidopa/Levodopa CR (unknown strength)
+- Amantadine (unknown strength)
+- Lisinopril
+- Levothyroxine
+- Sertraline 25mg qd
+- Vitamin D
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+VITALS: T 98.0 P 90 R 18 BP 150/88 O2 Sat 96% on RA. Pain: 9/10 L hip.
+GENERAL: Alert, distressed due to pain. Appears stated age.
+HEENT: NC/AT. PERRLA. Mucous membranes slightly dry.
+NECK: Supple, no tenderness.
+CHEST: CTA b/l.
+CV: RRR, no m/r/g.
+ABD: Soft, NTND.
+EXT: LLE shortened and externally rotated. Significant tenderness over L greater trochanter and inguinal region. Unable to actively move L leg. Distal pulses 2+ LLE. Sensation intact. RLE WNL. UEs WNL.
+NEURO: A&Ox3. CNs grossly intact. Speech clear. No focal motor/sensory deficits other than LLE. Parkinsonian features noted (resting tremor R hand, bradykinesia).
+SKIN: No obvious open wounds over L hip, some bruising developing.
+
+ED COURSE & WORKUP:
+- IV access established (20g L AC), 0.9% NS 500mL bolus initiated.
+- Pain Management: Morphine 4mg IV x1, then Fentanyl 50mcg IV x1 with good effect (pain to 5/10).
+- Labs: CBC, CMP, Coags, Trop, T&S sent.
+  - Results (STAT): WBC 9.8, Hgb 10.8, Plt 220. Na 138, K 3.9, Cl 102, CO2 24, BUN 25, Cr 1.3, Gluc 115. PT 12.5, INR 1.0. Trop <0.01.
+- Imaging:
+  - XRAY PELVIS/L HIP (STAT Read): Intertrochanteric fracture of the L femur, displaced.
+  - CXR PA/LAT (STAT Read): No acute cardiopulmonary process. Mild cardiomegaly.
+- Orthopedic Consult: Dr. Miller paged. Evaluated pt in ED. Recommended admission for surgical fixation (ORIF).
+- Anesthesia Consult: Paged for pre-op assessment.
+- Cardiology Consult: Requested by Ortho/Anesthesia for pre-op clearance given age and PD. Dr. Ramirez to see.
+- NPO.
+- Tetanus UTD.
+- PD Meds: Attempted to clarify home regimen. Pt unsure of C/L CR strength. Neurology (Dr. Lee's office) called, awaiting call back for med reconciliation. Tentatively hold Amantadine due to potential for confusion post-op.
+
+ASSESSMENT:
+1.  Left Intertrochanteric Femur Fracture, displaced, after fall.
+2.  Parkinson's Disease - impacting mobility, contributing to fall.
+3.  Acute Pain.
+4.  Mild AKI on Dehydration (Cr 1.3, BUN 25).
+
+PLAN:
+1.  Admit to Orthopedic service (Dr. Miller).
+2.  NPO for OR.
+3.  IVF D5 1/2NS @ 75ml/hr.
+4.  Pain control with IV opioids PRN.
+5.  Pre-op w/u per Ortho/Anesthesia/Cardiology.
+6.  Obtain PD med clarification and manage per Neurology/Hospitalist guidance.
+7.  DVT prophylaxis (Lovenox) once cleared by surgery.
+
+DISPOSITION: Admit to Inpatient Floor. Condition: Stable for now.
+
+Electronically Signed: Johnathan Miles, MD, Emergency Physician

@@ -1,0 +1,42 @@
+NEUROLOGY CONSULTATION NOTE
+
+PATIENT: VANCE, ELEANOR
+DOB: 07/16/1945
+DATE OF CONSULT: 08/20/2024
+REFERRING MD: Dr. Emily Carter
+REASON FOR CONSULT: R hand tremor, bradykinesia. ?Parkinson's disease.
+
+HPI:
+Ms. Vance is a pleasant 78 y/o R-handed female presenting for evaluation of progressive neurological symptoms. Onset approx 4-6 months ago w/ R hand tremor, initially intermittent, now more persistent, esp. at rest ("pill-rolling" quality). Reports associated slowness of movement (bradykinesia), difficulty w/ fine motor tasks (buttoning, handwriting - "smaller, more cramped"). Gait feels "shaky," some postural instability, no definite falls until recently (one minor in garden). Denies diplopia, dysarthria, dysphagia, sensory loss, weakness. Notes some mild axial stiffness.
+Brain MRI (08/05/2024) showed age-related changes, no acute pathology.
+PMH: HTN, Hypothyroidism, OA.
+Meds: Lisinopril, Levothyroxine, Tylenol PRN, Vit D.
+Social: Widowed, lives alone.
+
+NEUROLOGICAL EXAM:
+Mental Status: A&Ox3. Intact attention, language, memory (3/3 recall at 5 min). Mood appears euthymic today.
+CN: II-XII intact. PERRLA, EOMI. Visual fields full to confrontation. Face symmetric.
+Motor:
+  Tone: Cogwheel rigidity R>L UE, mild R LE. Normal L UE.
+  Strength: 5/5 throughout, though effort seems slow.
+  Tremor: Visible R hand resting tremor (4-6 Hz, pill-rolling). Emerges with distraction. Minimal R leg tremor. No head tremor. No significant postural or action tremor.
+  Coordination: Finger-to-nose shows mild dysmetria R, slow. Heel-to-shin intact. RAMs (finger taps, hand open/close, foot taps) markedly slow and reduced amplitude R>L (bradykinesia).
+Sensation: Intact to light touch, pinprick, vibration, proprioception throughout.
+Reflexes: 2+ and symmetric throughout. Plantars downgoing.
+Gait/Station: Stands with slightly stooped posture. Initiation slow. Reduced R arm swing. Stride length shortened. Turns en bloc, requires multiple steps. Pull test: Retropulsion (2 steps to recover). Able to walk on toes/heels. Tandem difficult.
+UPDRS Part III (Motor Exam): 28/108. Notable scores for tremor, rigidity, bradykinesia, postural stability.
+
+ASSESSMENT:
+78 y/o female with progressive asymmetric resting tremor, bradykinesia, rigidity, and postural instability. Clinical picture is highly consistent with **Idiopathic Parkinson's Disease (PD)**.
+Hoehn & Yahr Stage: 2.0 (bilateral symptoms, no impairment of balance on pull test if she takes 1 step, but she took 2, so arguably 2.5).
+
+PLAN:
+1.  Diagnosis of PD discussed extensively with patient. Provided educational materials.
+2.  Initiate Levodopa therapy: Carbidopa/Levodopa 25/100mg, 1 tab PO TID. Start 1/2 tab TID x 1 wk, then increase to 1 tab TID if tolerated. Discussed potential side effects (nausea, dizziness, orthostasis).
+3.  Referral to Physical Therapy and Occupational Therapy (PT/OT) for evaluation and treatment. Specifically recommend LSVT BIG program for PT if available.
+4.  Discussed importance of regular exercise, diet, hydration.
+5.  Safety: Fall precautions reinforced. Home safety eval by OT.
+6.  Follow-up: Return to clinic in 3 months for assessment of L-dopa response and any side effects.
+7.  Encouraged to connect with local Parkinson's support groups.
+
+Electronically Signed: David Lee, MD, Neurologist

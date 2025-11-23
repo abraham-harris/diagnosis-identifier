@@ -1,0 +1,51 @@
+PATIENT: VANCE, ELEANOR
+DOB: 07/16/1945
+DATE: 06/10/2024
+PROVIDER: Emily Carter, MD
+SUBJECTIVE:
+Ms. Vance, 78 y/o F, presents for Annual Wellness Visit. Reports feeling "generally okay for my age." Notes recent development of R hand tremor, mostly at rest, over past few months. Denies HA, CP, SOB. Some recent "unsteadiness," nearly fell twice. Appetite fair. Sleep: difficulty falling asleep some nights. Notes feeling more isolated since husband's passing. Son lives OOS. Handwriting "smaller."
+PMH: HTN (on Lisinopril 10mg qd), Hypothyroidism (on Levothyroxine 75mcg qd), Osteoarthritis (takes Tylenol PRN).
+PSH: Cholecystectomy (lap, 2005), Appendectomy (childhood).
+Allergies: NKDA.
+Medications:
+1. Lisinopril 10mg PO QD
+2. Levothyroxine 75mcg PO QD
+3. Acetaminophen 500mg PO PRN joint pain
+4. Vitamin D3 1000 IU PO QD (OTC, started recently herself)
+Social Hx: Widowed, lives alone in 2-story home. Former librarian. Occasional wine. Non-smoker. Limited local support.
+ROS: As per HPI. Neuro: +R hand tremor, +gait unsteadiness, + micrographia. Psych: +low mood, loneliness. MSK: +mild diffuse arthralgias. All other systems reviewed and negative.
+
+OBJECTIVE:
+VS: BP 138/78, HR 72, RR 16, T 98.2F, SpO2 97% RA. Wt 145 lbs, Ht 5'4", BMI 24.9.
+Gen: Alert, cooperative, appears stated age.
+HEENT: PERRLA, EOMI. Mucous membranes moist. Oropharynx clear. Neck supple, no thyromegaly.
+CV: RRR, S1S2 normal, no m/r/g. Carotids 2+ b/l, no bruits.
+Lungs: CTA b/l.
+Abd: Soft, NT/ND, BS active. No HSM.
+Ext: No C/C/E. Pulses 2+ b/l.
+Neuro: CN II-XII grossly intact. Strength 5/5 UE/LE b/l, except R hand grip mildly weak. DTRs 2+ symm. Resting tremor noted R hand, pill-rolling quality. Mild bradykinesia noted w/ RAMs. Gait: slightly stooped posture, decreased R arm swing, slow, short steps. Turns carefully. Romberg mildly unsteady.
+Skin: Warm, dry, no suspicious lesions.
+
+ASSESSMENT/PLAN:
+1.  R Hand Tremor & Bradykinesia: Concerning for possible Parkinson's disease vs. Essential Tremor. Will refer to Neurology. Ordered Brain MRI to r/o structural pathology.
+2.  Gait Instability / Fall Risk: Moderate risk. Advised on home safety, removing throw rugs, ensuring adequate lighting. PT eval discussed, deferred pending Neuro.
+3.  HTN: Controlled. Continue Lisinopril.
+4.  Hypothyroidism: Stable. Continue Levothyroxine.
+5.  Vitamin D Deficiency (suspected, confirmed by labs): Labs show Vit D 25 ng/mL. Start Vit D3 5000 IU PO QD x 8 weeks, then 2000 IU PO QD. Recheck in 3 mos.
+6.  Mild Depressive Symptoms / Social Isolation (PHQ-9: 7): Discussed importance of social connection. Encouraged exploring local senior center activities. Will monitor.
+7.  Hyperlipidemia (LDL 135): Discussed statin, pt hesitant. Lifestyle mod reinforced. Recheck lipids in 6 mos.
+8.  Health Maintenance: UTD on mammogram, colonoscopy. Flu shot offered (declined, will get in fall). Pneumovax UTD.
+
+Labs Ordered Today: CBC, CMP, TSH, Lipid Panel, Vit D 25-OH. (Results pending at time of note completion, addendum later).
+Imaging Ordered: Brain MRI.
+Referrals: Neurology - Dr. Lee.
+F/U: 3 months for lab recheck and mood assessment. Call sooner if new concerns.
+
+--- Lab Addendum 06/12/2024 ---
+CBC: WNL.
+CMP: WNL except Gluc 105 (fasting), Vit D 25 ng/mL.
+TSH: 2.3 uIU/mL (WNL).
+Lipid Panel: Total Chol 210, HDL 55, LDL 135, Trig 100.
+Plan adjusted for Vit D as above.
+
+Electronically Signed: Emily Carter, MD

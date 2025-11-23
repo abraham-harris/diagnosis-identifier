@@ -1,0 +1,48 @@
+SPEECH LANGUAGE PATHOLOGY - BEDSIDE SWALLOW EVALUATION
+
+PATIENT: VANCE, ELEANOR
+MRN: 9876543
+DOB: 07/16/1945
+DATE OF EVAL: 02/26/2025
+REFERRING MD: Dr. Chen (Hospitalist)
+REASON FOR REFERRAL: Coughing with thin liquids, recent desaturation, suspected aspiration pneumonia. Hx of Parkinson's Disease.
+
+BACKGROUND: Pt is a 79 y/o F s/p L hip ORIF on 02/16. Developed post-op delirium and subsequently RLL pneumonia (CT 02/25). PMH significant for PD. Currently on O2 via NC. Alertness fluctuates, today pt is drowsy but arousable, follows simple commands.
+
+ORAL MOTOR ASSESSMENT:
+Labial strength/ROM: WFL for seal.
+Lingual strength/ROM: Reduced anterior-posterior movement, mild lingual tremor noted.
+Jaw strength/ROM: WFL.
+Velopharyngeal function: Voice slightly wet/gurgly pre-swallow.
+Laryngeal palpation: Elevation appears mildly reduced during dry swallows.
+Volitional cough: Weak, boggy.
+
+SWALLOW TRIALS (PO trials with ice chips, then various consistencies as tolerated):
+- Ice chips: Tolerated x3 small presentations. No overt s/sx aspiration.
+- Thin liquids (water via teaspoon): Multiple episodes of coughing noted after ~3-5cc presentation. Wet vocal quality post-swallow. O2 sat dropped from 94% to 90% during thin liquid trials.
+- Nectar-thick liquids (via teaspoon, cup): Delayed swallow initiation. No cough. Mild oral residue.
+- Pureed solids (applesauce via spoon): Delayed swallow initiation. Reduced lingual transit. Some pocketing in R buccal cavity. No overt s/sx aspiration. Throat clear post-swallow.
+
+IMPRESSION:
+Moderate Oropharyngeal Dysphagia characterized by:
+- Reduced lingual control and motility.
+- Delayed swallow initiation across consistencies.
+- Reduced laryngeal elevation (clinical sign).
+- Overt signs of aspiration (coughing, O2 desat) with THIN LIQUIDS.
+- Silent aspiration risk is HIGH with thin liquids given PD, wet vocal quality, and history of pneumonia.
+- Tolerated nectar-thick liquids and pureed solids with minimal overt difficulty during eval but with some oral phase deficits noted. Potential for fatigue with meals.
+
+RECOMMENDATIONS:
+1.  DIET: NPO until formal instrumental assessment can be completed (VFSS preferred, FEES if pt cannot transport).
+    * *Pending discussion with team re: urgency of VFSS vs. empiric trial:* If PO must be initiated prior to instrumental, recommend **Pureed Solids and Nectar-Thick Liquids.** Strict supervision during meals.
+2.  STRATEGIES:
+    * Small bites/sips.
+    * Alternate bites/sips.
+    * No straws.
+    * Upright positioning (90 degrees) during and for 30-60 mins after all PO intake.
+    * Good oral care pre/post meals.
+3.  Re-assess swallow function daily at bedside.
+4.  Recommend VFSS to further delineate swallow physiology and guide diet advancement.
+5.  Educate patient (as able) and nursing staff on safe swallowing strategies and aspiration precautions.
+
+Electronically Signed: Emily Davis, MA, CCC-SLP

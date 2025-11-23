@@ -1,0 +1,26 @@
+RADIOLOGY REPORT
+
+PATIENT NAME: VANCE, ELEANOR
+MRN: 9876543
+DOB: 07/16/1945
+EXAM DATE: 08/05/2024
+EXAM: MRI BRAIN WO CONTRAST
+
+CLINICAL HISTORY: 78-year-old female with right hand tremor and bradykinesia. Rule out structural lesion.
+
+TECHNIQUE: Multiplanar, multisequence MR imaging of the brain was performed without the administration of intravenous contrast. Sequences include sagittal T1, axial T1, T2, FLAIR, DWI, and GRE.
+
+COMPARISON: None available.
+
+FINDINGS:
+Brain Parenchyma: Mild age-related diffuse cerebral volume loss. Scattered T2/FLAIR hyperintensities in the periventricular and subcortical white matter are present, consistent with chronic small vessel ischemic changes. No evidence of acute or subacute infarct on DWI. No mass, midline shift, or extra-axial fluid collection. No intracranial hemorrhage identified on GRE sequences.
+Ventricles and Cisterns: The ventricular system and basal cisterns are normal in size and configuration for age.
+Posterior Fossa: Cerebellar hemispheres and brainstem appear unremarkable.
+Sella and Pituitary: Normal.
+Major Vascular Structures: Normal flow voids are identified within the major intracranial arteries.
+
+IMPRESSION:
+1.  Mild diffuse cerebral atrophy and chronic small vessel ischemic changes, consistent with age.
+2.  No evidence of acute infarct, intracranial hemorrhage, mass, or other acute intracranial process to explain the patient's symptoms.
+
+Electronically Signed: Sarah Collins, MD, PhD, Neuroradiologist

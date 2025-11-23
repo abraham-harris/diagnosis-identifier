@@ -1,0 +1,35 @@
+CASE MANAGEMENT / SOCIAL WORK PROGRESS NOTE
+
+PATIENT: VANCE, ELEANOR
+MRN: 9876543
+DOB: 07/16/1945
+DATE: 03/03/2025
+SERVICE: Ortho/Hospitalist
+
+REASON FOR REFERRAL: Discharge Planning. Pt is 79 y/o F s/p L hip ORIF, complicated by delirium (improving) and aspiration pneumonia (improving). PMH PD. Lives alone.
+
+CURRENT STATUS: Medically progressing. Pneumonia tx ongoing, afebrile x 24h. Delirium much improved, A&Ox2-3. Pain controlled. PT: TTWB LLE, requires Mod A for transfers, min A for bed mobility. OT: Requires Mod A for LE dressing/bathing, min A for UE dressing/grooming. SLP: Currently on pureed/nectar thick, risk for aspiration. Ambulation limited to short distances w/ RW and standby assist of 1-2.
+
+SOCIAL SITUATION:
+Pt lives alone in a 2-story home (stairs to enter, stairs to BR). Widowed. Son, Michael, lives OOS (California), actively involved via phone. Pt expresses desire to go home but acknowledges current limitations. Michael expresses significant concern about her safety at home alone, even with HHC. Pt has Medicare A/B and a Medigap plan (details obtained). Finances described as "stable but not wealthy."
+
+DC PLANNING DISCUSSION:
+Met with pt today. Michael participated via speakerphone.
+1.  **Home vs. SNF:**
+    * Pt's initial preference: Home with HHC.
+    * Team Recommendation (MD, PT, OT, SLP, SW): Discharge to SNF for continued rehab and skilled needs (IV abx completion if needed, dysphagia diet, wound care monitoring, intensive PT/OT). Pt currently unsafe for D/C home due to high level of assistance needed for mobility, ADLs, and ongoing skilled needs.
+    * Michael supports SNF recommendation.
+    * After discussion of current functional status and care needs, pt reluctantly agreed that SNF is the best option for now for recovery. Stated, "I guess I don't have much choice if I want to get better."
+2.  **SNF Goals:** Improve mobility to at least supervision level with RW, improve ADL independence, ensure stable swallow function for safe PO intake, complete medical treatments.
+3.  **SNF Search:** Provided Michael with a list of contracted SNFs. He will research and provide top 3 choices. SNF bed availability being checked. Anticipate D/C in 2-3 days if SNF bed secured and medically cleared.
+4.  **DME:** Walker, bedside commode, shower chair will be needed upon eventual D/C from SNF. Orders to be placed.
+5.  **Post-SNF:** Discussions initiated re: long-term support needs. If pt does not return to prior baseline, home with extensive HHC or transition to Assisted Living may be future considerations. Michael is aware of this.
+
+PLAN:
+-   Continue to monitor medical stability for D/C.
+-   Follow up with Michael re: SNF choices by EOD tomorrow.
+-   Initiate SNF referral packet once facility chosen. Target D/C: 03/05 or 03/06.
+-   Address any pt/family anxieties re: SNF transition.
+-   Coordinate with SNF for smooth handover of care.
+
+Electronically Signed: Susan Davis, LICSW, ACM

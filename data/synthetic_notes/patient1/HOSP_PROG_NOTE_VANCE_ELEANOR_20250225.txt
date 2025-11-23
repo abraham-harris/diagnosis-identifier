@@ -1,0 +1,66 @@
+HOSPITAL PROGRESS NOTE - HOSPITALIST
+
+PATIENT: VANCE, ELEANOR
+MRN: 9876543
+DOB: 07/16/1945
+DATE: 02/25/2025 (POD #9 L Hip ORIF)
+PRIMARY SERVICE: Orthopedics (Dr. Miller)
+CONSULTING SERVICE: Hospitalist (Dr. Chen)
+
+S:
+Pt is POD #9 from L hip ORIF. Overnight, pt had increased cough, reported subjective fever, and SOB. Nurse reports O2 sat dipped to 90% on RA, now on 2L NC. Pt remains somewhat confused, fluctuating mental status, though better than POD 4-6 (delirium period). Pain reported as 4/10 at L hip, managed with PO oxycodone. Tolerating nectar-thick liquids, pureed solids in small amounts per SLP. Bowels: Had BM yesterday with Miralax. PD meds (C/L 50/200 CR BID, Ropinirole 0.5mg TID started by Neuro for motor fluctuations, Amantadine held) given on schedule.
+
+O:
+VS: T 101.5F (oral), HR 98, BP 130/75, RR 22, SpO2 93% on 2L NC.
+Heart: RRR, no new m/r/g.
+Lungs: Crackles R base, decreased BS RLL. Productive cough, yellowish sputum.
+Ext: LLE dressing CDI. Mild edema. Calf soft.
+Neuro: CAM-ICU negative today but was positive yesterday. Still mildly disoriented to time/situation. Follows simple commands. R hand tremor present.
+Labs (today AM): WBC 15.5 (H) (yesterday 11.2), Hgb 10.2 (L), Plt 250. Na 137, K 4.0, BUN 22, Cr 1.1.
+Imaging: Chest CT (today): RLL infiltrate c/w aspiration pneumonia.
+Sputum Cx: Pending. Blood Cx x2: Pending.
+
+A/P:
+79 y/o F POD #9 L Hip ORIF, complicated by post-op delirium (improving) and now new Aspiration Pneumonia. Parkinson's Disease.
+
+1.  **Aspiration Pneumonia (RLL):**
+    * Likely secondary to dysphagia (known from SLP eval) in setting of post-op state, delirium, PD.
+    * Initiated Ceftriaxone 1g IV q24h and Azithromycin 500mg IV q24h (empiric, will tailor to cultures).
+    * Continue O2 via NC, titrate to keep SpO2 >92%.
+    * Encourage IS, C&DB.
+    * Strict aspiration precautions. Continue SLP recs (nectar-thick, pureed). Monitor oral intake. Consider NGT if intake poor or aspiration signs worsen, though pt resistant.
+    * Pulmonology consulted for recs.
+
+2.  **Post-Op Delirium:**
+    * Improved from prior days but not fully resolved. Multifactorial (post-op, infection, unfamiliar env, PD).
+    * Continue non-pharm interventions (reorientation, sleep hygiene, mobility as tolerated).
+    * Avoid benzos, anticholinergics. Quetiapine 25mg PO HS PRN severe agitation (used once last night).
+    * Geriatrics recs being followed.
+
+3.  **L Hip Fracture s/p ORIF:**
+    * Pain controlled with PO meds. Incision CDI.
+    * Lovenox 40mg SC QD for DVT proph. SCDs on.
+    * PT: TTWB LLE. Continue bedside therapy as tolerated. Progress slow due to medical issues.
+
+4.  **Parkinson's Disease:**
+    * Medications (C/L CR BID, Ropinirole TID) administered on strict schedule. Avoid interruptions.
+    * Monitor for motor fluctuations, dyskinesias.
+    * Neurology aware of current status.
+
+5.  **Nutrition:**
+    * Poor PO intake. Monitor closely. Dietitian consulted.
+    * Continue modified diet per SLP.
+
+6.  **Prophylaxis:** GI (Pantoprazole 40mg IV qd), DVT (Lovenox).
+
+7.  **Other:** HTN, Hypothyroidism stable on home meds.
+
+Plan:
+- Monitor response to abx.
+- Daily labs (CBC, CMP).
+- Follow cultures.
+- Aggressive PT/OT once medically stable.
+- Continue focus on delirium prevention/management.
+- Case Management actively involved for DC planning (SNF likely).
+
+Electronically Signed: Lisa Chen, MD, Hospitalist
