@@ -1,481 +1,207 @@
 {
   "icd10": [
     {
-      "code": "S72.101A",
-      "description": "Unspecified fracture of intertrochanteric region of left femur, initial encounter for closed fracture",
+      "code": "S72.142A",
+      "description": "Displaced intertrochanteric fracture of left femur, initial encounter for closed fracture",
       "evidence": [
-        "Intertrochanteric fracture of the L femur, displaced."
-      ]
+        "Preoperative diagnosis: Displaced intertrochanteric fracture, left femur",
+        "Surgical repair of the left hip fracture with internal fixation device (dynamic hip screw)",
+        "Left Intertrochanteric Femur Fracture",
+        "XRAY PELVIS/L HIP (STAT Read): Intertrochanteric fracture of the L femur, displaced.",
+        "Postoperative diagnosis: Displaced intertrochanteric fracture, left femur",
+        "Radiographs demonstrate significant displacement"
+      ],
+      "type": "diagnosis"
     },
     {
-      "code": "W19.XXXA",
-      "description": "Unspecified fall, initial encounter",
+      "code": "G20.9",
+      "description": "Parkinson's disease, unspecified",
       "evidence": [
-        "Fall, hip pain.",
-        "experienced a \"freeze\" of her legs, and fell onto her L hip."
-      ]
+        "Parkinson's disease",
+        "PMH: Parkinson's Disease"
+      ],
+      "type": "diagnosis"
     },
     {
-      "code": "G20",
-      "description": "Parkinson's disease",
-      "evidence": [
-        "PMH of Parkinson's Disease (on C/L CR, Amantadine)",
-        "Parkinsonian features noted (resting tremor R hand, bradykinesia)"
-      ]
+      "code": "R29.6",
+      "description": "Repeated falls",
+      "evidence": [],
+      "type": "diagnosis"
     },
     {
-      "code": "I10",
-      "description": "Essential (primary) hypertension",
+      "code": "M25.552",
+      "description": "Pain in left hip",
       "evidence": [
-        "HTN"
-      ]
-    },
-    {
-      "code": "E03.9",
-      "description": "Hypothyroidism, unspecified",
-      "evidence": [
-        "Hypothyroidism"
-      ]
-    },
-    {
-      "code": "M19.9",
-      "description": "Osteoarthritis, unspecified",
-      "evidence": [
-        "OA"
-      ]
-    },
-    {
-      "code": "E55.9",
-      "description": "Vitamin D deficiency, unspecified",
-      "evidence": [
-        "Vit D deficiency"
-      ]
-    },
-    {
-      "code": "R52.2",
-      "description": "Acute pain",
-      "evidence": [
-        "Pain: 9/10 L hip.",
-        "Acute Pain"
-      ]
+        "Significant L hip pain, unable to bear weight."
+      ],
+      "type": "diagnosis"
     },
     {
       "code": "N17.9",
-      "description": "Acute kidney failure, unspecified",
+      "description": "Acute kidney injury, unspecified",
       "evidence": [
-        "Mild AKI on Dehydration (Cr 1.3, BUN 25)"
-      ]
-    },
-    {
-      "code": "E86.0",
-      "description": "Dehydration",
-      "evidence": [
-        "Mild AKI on Dehydration"
-      ]
-    },
-    {
-      "code": "S72.12A",
-      "description": "Fracture of intertrochanteric region of femur, closed, initial encounter",
-      "evidence": [
-        "\"Displaced fracture involving the upper part of the left thigh bone, near the hip (initial care for a closed fracture)\"",
-        "\"left upper thigh bone fracture near the hip\"",
-        "\"Surgical repair of the left hip fracture\""
-      ]
-    },
-    {
-      "code": "G20",
-      "description": "Parkinson disease",
-      "evidence": [
-        "\"Parkinson's disease\"",
-        "\"PMH of Parkinson's Disease\""
-      ]
-    },
-    {
-      "code": "J69.0",
-      "description": "Pneumonitis due to inhalation of food and vomit (aspiration pneumonia)",
-      "evidence": [
-        "\"Lung inflammation caused by inhaling food or stomach contents (aspiration pneumonia)\"",
-        "\"Aspiration Pneumonia: ... lung inflammation in the right lower lobe consistent with aspiration pneumonia\""
-      ]
-    },
-    {
-      "code": "F05",
-      "description": "Delirium, not induced by alcohol and other psychoactive substances",
-      "evidence": [
-        "\"Acute confusion that developed after surgery and was related to infection (delirium)\"",
-        "\"Developed acute confusion ... assessed as delirium\""
-      ]
-    },
-    {
-      "code": "I10",
-      "description": "Essential (primary) hypertension",
-      "evidence": [
-        "\"High blood pressure (essential hypertension)\"",
-        "\"Lisinopril 10mg\""
-      ]
-    },
-    {
-      "code": "E03.9",
-      "description": "Hypothyroidism, unspecified",
-      "evidence": [
-        "\"Underactive thyroid gland (hypothyroidism)\"",
-        "\"Levothyroxine 75mcg\""
-      ]
-    },
-    {
-      "code": "M81.0",
-      "description": "Age-related osteoporosis without current pathological fracture",
-      "evidence": [
-        "\"Age-related bone thinning (osteoporosis), presumed\""
-      ]
-    },
-    {
-      "code": "E55.9",
-      "description": "Vitamin D deficiency, unspecified",
-      "evidence": [
-        "\"Low vitamin D levels (vitamin D deficiency), currently being treated with replacement\"",
-        "\"Vitamin D3 2000 IU\""
-      ]
-    },
-    {
-      "code": "R13.2",
-      "description": "Dysphagia, unspecified (oropharyngeal)",
-      "evidence": [
-        "\"Difficulty swallowing, specifically affecting the mouth and throat (oropharyngeal dysphagia)\"",
-        "\"Speech Language Pathology evaluation revealed moderate difficulty with swallowing in the mouth and throat area\""
-      ]
-    },
-    {
-      "code": "R26.2",
-      "description": "Difficulty walking, not elsewhere classified",
-      "evidence": [
-        "\"Difficulty walking\""
-      ]
-    },
-    {
-      "code": "R53.1",
-      "description": "Weakness",
-      "evidence": [
-        "\"Generalized weakness\""
-      ]
-    },
-    {
-      "code": "Z91.81",
-      "description": "History of falling",
-      "evidence": [
-        "\"History of previous falls\""
-      ]
-    },
-    {
-      "code": "N17.9",
-      "description": "Acute kidney failure, unspecified",
-      "evidence": [
-        "\"Temporary decline in kidney function upon admission, which has since resolved\""
-      ]
+        "Cr 1.3, BUN 25"
+      ],
+      "type": "diagnosis"
     },
     {
       "code": "J69.0",
       "description": "Aspiration pneumonia",
       "evidence": [
-        "new Aspiration Pneumonia",
-        "Chest CT (today): RLL infiltrate c/w aspiration pneumonia"
-      ]
-    },
-    {
-      "code": "F05",
-      "description": "Delirium, not induced by alcohol",
-      "evidence": [
-        "post-op delirium (improving)",
-        "CAM-ICU negative today but was positive yesterday. Still mildly disoriented to time/situation"
-      ]
-    },
-    {
-      "code": "S72.001D",
-      "description": "Fracture of neck of femur, left side, subsequent encounter for open reduction internal fixation",
-      "evidence": [
-        "POD #9 L Hip ORIF",
-        "L Hip Fracture s/p ORIF"
-      ]
-    },
-    {
-      "code": "G20",
-      "description": "Parkinson disease",
-      "evidence": [
-        "Parkinson's Disease"
-      ]
-    },
-    {
-      "code": "I10",
-      "description": "Essential (primary) hypertension",
-      "evidence": [
-        "Other: HTN, ... stable on home meds"
-      ]
-    },
-    {
-      "code": "E03.9",
-      "description": "Hypothyroidism, unspecified",
-      "evidence": [
-        "Other: ... Hypothyroidism stable on home meds"
-      ]
-    },
-    {
-      "code": "R13.10",
-      "description": "Dysphagia, unspecified",
-      "evidence": [
-        "known from SLP eval",
-        "nectar-thick liquids, pureed solids"
-      ]
-    },
-    {
-      "code": "R25.1",
-      "description": "Tremor, unspecified",
-      "evidence": [
-        "right hand tremor and bradykinesia"
-      ]
-    },
-    {
-      "code": "Z01.89",
-      "description": "Encounter for other specified special examination",
-      "evidence": [
-        "MRI BRAIN WO CONTRAST",
-        "Rule out structural lesion"
-      ]
-    },
-    {
-      "code": "Z13.6",
-      "description": "Encounter for screening for nervous system disorders",
-      "evidence": [
-        "Rule out structural lesion"
-      ]
-    },
-    {
-      "code": "G20",
-      "description": "Idiopathic Parkinson's disease",
-      "evidence": [
-        "Clinical picture is highly consistent with **Idiopathic Parkinson's Disease (PD)**."
-      ]
-    },
-    {
-      "code": "I10",
-      "description": "Essential (primary) hypertension",
-      "evidence": [
-        "PMH: HTN, Hypothyroidism, OA."
-      ]
-    },
-    {
-      "code": "E03.9",
-      "description": "Hypothyroidism, unspecified",
-      "evidence": [
-        "PMH: HTN, Hypothyroidism, OA."
-      ]
-    },
-    {
-      "code": "M19.9",
-      "description": "Unspecified osteoarthritis",
-      "evidence": [
-        "PMH: HTN, Hypothyroidism, OA."
-      ]
-    },
-    {
-      "code": "R29.6",
-      "description": "Repeated falls",
-      "evidence": [
-        "no definite falls until recently (one minor in garden)."
-      ]
-    },
-    {
-      "code": "S72.12A",
-      "description": "Pertrochanteric fracture of left femur, initial encounter for closed fracture",
-      "evidence": [
-        "Preoperative diagnosis: Displaced intertrochanteric fracture, left femur.",
-        "Postoperative diagnosis: Displaced intertrochanteric fracture, left femur.",
-        "The fracture was identified as an unstable 3-part intertrochanteric fracture."
-      ]
-    },
-    {
-      "code": "Z00.129",
-      "description": "Encounter for routine health examination with abnormal findings",
-      "evidence": [
-        "\"Annual Wellness Visit\"",
-        "\"Ms. Vance, 78 y/o F, presents for Annual Wellness Visit\""
-      ]
-    },
-    {
-      "code": "I10",
-      "description": "Essential (primary) hypertension",
-      "evidence": [
-        "\"HTN (on Lisinopril 10mg qd)\"",
-        "\"HTN: Controlled. Continue Lisinopril.\""
-      ]
-    },
-    {
-      "code": "E03.9",
-      "description": "Hypothyroidism, unspecified",
-      "evidence": [
-        "\"Hypothyroidism (on Levothyroxine 75mcg qd)\"",
-        "\"Hypothyroidism: Stable. Continue Levothyroxine.\""
-      ]
-    },
-    {
-      "code": "M19.90",
-      "description": "Osteoarthritis, unspecified site",
-      "evidence": [
-        "\"Osteoarthritis (takes Tylenol PRN)\""
-      ]
-    },
-    {
-      "code": "E55.9",
-      "description": "Vitamin D deficiency, unspecified",
-      "evidence": [
-        "\"Vitamin D Deficiency (suspected, confirmed by labs)\"",
-        "\"Labs show Vit D 25 ng/mL\"",
-        "\"Start Vit D3 5000 IU PO QD x 8 weeks\""
-      ]
-    },
-    {
-      "code": "F32.9",
-      "description": "Depressive disorder, unspecified",
-      "evidence": [
-        "\"Mild Depressive Symptoms / Social Isolation (PHQ-9: 7)\"",
-        "\"low mood, loneliness\""
-      ]
-    },
-    {
-      "code": "E78.5",
-      "description": "Hyperlipidemia, unspecified",
-      "evidence": [
-        "\"Hyperlipidemia (LDL 135)\"",
-        "\"Lipid Panel: LDL 135\""
-      ]
-    },
-    {
-      "code": "R26.2",
-      "description": "Difficulty walking, not elsewhere classified",
-      "evidence": [
-        "\"Gait Instability / Fall Risk: Moderate risk\"",
-        "\"gait unsteadiness\"",
-        "\"Romberg mildly unsteady\""
-      ]
-    },
-    {
-      "code": "R25.1",
-      "description": "Tremor, unspecified",
-      "evidence": [
-        "\"R hand tremor, mostly at rest\"",
-        "\"Resting tremor noted R hand, pill-rolling quality\"",
-        "\"R Hand Tremor & Bradykinesia: Concerning for possible Parkinson's disease vs. Essential Tremor\""
-      ]
-    },
-    {
-      "code": "Z60.0",
-      "description": "Social environment, unspecified",
-      "evidence": [
-        "\"feeling more isolated since husband's passing\"",
-        "\"low mood, loneliness\""
-      ]
-    },
-    {
-      "code": "G20",
-      "description": "Parkinson's disease",
-      "evidence": [
-        "Hx of Parkinson's Disease."
-      ]
-    },
-    {
-      "code": "R13.2",
-      "description": "Dysphagia, oropharyngeal phase",
-      "evidence": [
-        "Moderate Oropharyngeal Dysphagia characterized by:",
-        "Reduced lingual control and motility.",
-        "Delayed swallow initiation across consistencies."
-      ]
-    },
-    {
-      "code": "J69.0",
-      "description": "Pneumonitis due to inhalation of food, liquids, and vomitus (aspiration pneumonia)",
-      "evidence": [
-        "suspected aspiration pneumonia.",
-        "RLL pneumonia (CT 02/25)."
-      ]
+        "Chest X-ray and subsequent Chest CT confirmed lung inflammation in the right lower lobe",
+        "Aspiration pneumonia"
+      ],
+      "type": "diagnosis"
     },
     {
       "code": "F05.9",
       "description": "Delirium, unspecified",
       "evidence": [
-        "Developed post-op delirium."
-      ]
+        "Delirium",
+        "Developed acute confusion starting on the fourth day after surgery"
+      ],
+      "type": "diagnosis"
     },
     {
-      "code": "Z98.89",
-      "description": "Other specified postprocedural states (post left hip ORIF)",
+      "code": "I10.9",
+      "description": "Essential hypertension, unspecified",
       "evidence": [
-        "s/p L hip ORIF on 02/16."
-      ]
+        "High blood pressure",
+        "Lisinopril 10mg: 1 tab PO QD"
+      ],
+      "type": "diagnosis"
     },
     {
-      "code": "Z99.81",
-      "description": "Dependence on supplemental oxygen",
+      "code": "E03.9",
+      "description": "Hypothyroidism, unspecified",
       "evidence": [
-        "Currently on O2 via NC."
-      ]
+        "TSH: 2.3 uIU/mL (WNL)",
+        "Hypothyroidism (on Levothyroxine 75mcg qd)",
+        "Underactive thyroid gland",
+        "Levothyroxine 75mcg: 1 tab PO QAM"
+      ],
+      "type": "diagnosis"
     },
     {
-      "code": "S72.001A",
-      "description": "Fracture of neck of femur, left side, initial encounter for fracture",
+      "code": "M81.0",
+      "description": "Age-related osteoporosis without current pathological fracture",
       "evidence": [
-        "s/p L hip ORIF"
-      ]
+        "Age-related bone thinning (osteoporosis), presumed"
+      ],
+      "type": "diagnosis"
     },
     {
-      "code": "F05",
-      "description": "Delirium, not induced by alcohol and other psychoactive substances",
+      "code": "E55.9",
+      "description": "Vitamin D deficiency, unspecified",
       "evidence": [
-        "complicated by delirium (improving)"
-      ]
+        "Low vitamin D levels",
+        "Vitamin D3 2000 IU: 1 tab PO QD",
+        "Vit D 25 ng/mL"
+      ],
+      "type": "diagnosis"
     },
     {
-      "code": "J69.0",
-      "description": "Pneumonitis due to inhalation of food",
+      "code": "R13.19",
+      "description": "Dysphagia, unspecified",
       "evidence": [
-        "aspiration pneumonia (improving)"
-      ]
+        "Difficulty swallowing, specifically affecting the mouth and throat (oropharyngeal dysphagia)",
+        "Speech Language Pathology evaluation revealed moderate difficulty with swallowing"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "F05.0",
+      "description": "Delirium due to known physiological condition",
+      "evidence": [],
+      "type": "diagnosis"
+    },
+    {
+      "code": "G20.0",
+      "description": "Parkinson's disease",
+      "evidence": [
+        "rigidity",
+        "bradykinesia",
+        "progressive asymmetric resting tremor",
+        "Hoehn & Yahr Stage: 2.0",
+        "postural instability"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "S72.002A",
+      "description": "Fracture of unspecified part of neck of left femur, initial encounter",
+      "evidence": [],
+      "type": "diagnosis"
+    },
+    {
+      "code": "R25.1",
+      "description": "Tremor, unspecified",
+      "evidence": [
+        "right hand tremor"
+      ],
+      "type": "diagnosis"
     },
     {
       "code": "G20",
-      "description": "Parkinson disease",
+      "description": "Parkinson's disease",
       "evidence": [
-        "PMH PD."
-      ]
+        "Resting tremor noted R hand, pill-rolling quality",
+        "Hx of Parkinson's Disease.",
+        "PMH PD",
+        "Mild bradykinesia noted w/ RAMs",
+        "Gait: slightly stooped posture, decreased R arm swing, slow, short steps"
+      ],
+      "type": "diagnosis"
     },
     {
-      "code": "Z48.0",
-      "description": "Encounter for aftercare following surgery",
+      "code": "R26.81",
+      "description": "Unsteadiness on feet",
       "evidence": [
-        "s/p L hip ORIF",
-        "Discharge Planning"
-      ]
+        "Gait Instability / Fall Risk: Moderate risk",
+        "Romberg mildly unsteady"
+      ],
+      "type": "diagnosis"
     },
     {
-      "code": "Z74.0",
-      "description": "Need for assistance with personal care",
+      "code": "F32.9",
+      "description": "Depressive episode, unspecified",
       "evidence": [
-        "requires Mod A for transfers, min A for bed mobility",
-        "requires Mod A for LE dressing/bathing, min A for UE dressing/grooming"
-      ]
+        "PHQ-9: 7",
+        "Mild Depressive Symptoms / Social Isolation",
+        "Feeling more isolated since husband's passing"
+      ],
+      "type": "diagnosis"
     },
     {
-      "code": "Z46.1",
-      "description": "Encounter for fitting and adjustment of orthopedic device",
+      "code": "I10",
+      "description": "Essential (primary) hypertension",
       "evidence": [
-        "Walker, bedside commode, shower chair will be needed"
-      ]
+        "HTN (on Lisinopril 10mg qd)",
+        "BP 138/78"
+      ],
+      "type": "diagnosis"
     },
     {
-      "code": "Z99.8",
-      "description": "Other specified dependence",
+      "code": "R13.10",
+      "description": "Dysphagia, unspecified",
+      "evidence": [],
+      "type": "diagnosis"
+    },
+    {
+      "code": "J18.9",
+      "description": "Pneumonia, unspecified organism",
       "evidence": [
-        "Pt currently unsafe for D/C home due to high level of assistance needed for mobility, ADLs, and ongoing skilled needs"
-      ]
+        "Aspiration pneumonia (improving)"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "F05",
+      "description": "Delirium due to known physiological condition",
+      "evidence": [
+        "Delirium much improved"
+      ],
+      "type": "diagnosis"
     }
   ]
 }

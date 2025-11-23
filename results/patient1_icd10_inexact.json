@@ -1,0 +1,238 @@
+{
+  "icd10": [
+    {
+      "code": "S72.142A",
+      "description": "Displaced intertrochanteric fracture of left femur, initial encounter for closed fracture",
+      "evidence": [
+        "Preoperative diagnosis: Displaced intertrochanteric fracture, left femur",
+        "Surgical repair of the left hip fracture with internal fixation device (dynamic hip screw)",
+        "EXT: LLE shortened and externally rotated. Significant tenderness over L greater trochanter and inguinal region.",
+        "Left Intertrochanteric Femur Fracture",
+        "Patient had L hip ORIF",
+        "XRAY PELVIS/L HIP (STAT Read): Intertrochanteric fracture of the L femur, displaced.",
+        "Postoperative diagnosis: Displaced intertrochanteric fracture, left femur",
+        "Radiographs demonstrate significant displacement"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "G20.0",
+      "description": "Parkinson's disease without dyskinesia",
+      "evidence": [
+        "rigidity",
+        "postural instability",
+        "bradykinesia",
+        "progressive asymmetric resting tremor",
+        "NEURO: Parkinsonian features noted (resting tremor R hand, bradykinesia)",
+        "Hoehn & Yahr Stage: 2.0",
+        "PMH: Parkinson's Disease"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "M25.551",
+      "description": "Pain in left hip",
+      "evidence": [
+        "CHIEF COMPLAINT: Fall, hip pain.",
+        "Pain: 9/10 L hip."
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "N17.9",
+      "description": "Acute kidney injury, unspecified",
+      "evidence": [
+        "Labs: Cr 1.3, BUN 25",
+        "ASSESSMENT: Mild AKI on Dehydration"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "G20",
+      "description": "Parkinson's disease",
+      "evidence": [
+        "R hand tremor",
+        "decreased R arm swing",
+        "History of Parkinson's Disease.",
+        "bradykinesia",
+        "Parkinson's disease",
+        "stooped posture",
+        "Carbidopa/Levodopa CR, Ropinirole added by Neurology for motor symptoms"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "J69.0",
+      "description": "Aspiration pneumonia",
+      "evidence": [
+        "Chest CT showing RLL infiltrate",
+        "Suspected aspiration pneumonia, coughing with thin liquids, and recent desaturation.",
+        "Aspiration pneumonia",
+        "Dysphagia known from SLP evaluation",
+        "Patient on pureed/nectar thick diet",
+        "Aspiration pneumonia diagnosis",
+        "Productive cough with yellowish sputum",
+        "Chest X-ray and subsequent Chest CT confirmed lung inflammation in the right lower lobe"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "F05",
+      "description": "Delirium due to known physiological condition",
+      "evidence": [
+        "Delirium",
+        "Developed acute confusion starting on the fourth day after surgery"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "I10",
+      "description": "Essential (primary) hypertension",
+      "evidence": [
+        "BP 138/78",
+        "Lisinopril 10mg: 1 tab PO QD",
+        "High blood pressure",
+        "on Lisinopril"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "E03.9",
+      "description": "Hypothyroidism, unspecified",
+      "evidence": [
+        "Underactive thyroid gland",
+        "on Levothyroxine",
+        "Levothyroxine 75mcg: 1 tab PO QAM",
+        "TSH 2.3 uIU/mL (WNL)"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "M81.0",
+      "description": "Age-related osteoporosis without current pathological fracture",
+      "evidence": [
+        "Age-related bone thinning (osteoporosis)"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "E55.9",
+      "description": "Vitamin D deficiency, unspecified",
+      "evidence": [
+        "Low vitamin D levels",
+        "Vitamin D3 2000 IU: 1 tab PO QD",
+        "Vit D 25 ng/mL"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "R13.0",
+      "description": "Dysphagia, unspecified",
+      "evidence": [
+        "Difficulty swallowing",
+        "Speech Language Pathology evaluation revealed moderate difficulty with swallowing"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "F05.0",
+      "description": "Delirium due to known physiological condition",
+      "evidence": [
+        "Patient's delirium much improved",
+        "Delirium diagnosis",
+        "Disoriented to time/situation",
+        "Fluctuating mental status",
+        "CAM-ICU positive yesterday"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "G20.9",
+      "description": "Parkinson's disease, unspecified",
+      "evidence": [
+        "Known history of Parkinson's Disease",
+        "Patient's past medical history includes PD",
+        "Tremor present in R hand",
+        "Motor fluctuations"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "S72.002A",
+      "description": "Fracture of unspecified part of neck of left femur, initial encounter for closed fracture",
+      "evidence": [
+        "L Hip Fracture s/p ORIF",
+        "POD #9 L Hip ORIF"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "R25.1",
+      "description": "Tremor, unspecified",
+      "evidence": [
+        "right hand tremor"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "R27.8",
+      "description": "Other lack of coordination",
+      "evidence": [
+        "bradykinesia"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "I67.9",
+      "description": "Cerebrovascular disease, unspecified",
+      "evidence": [
+        "chronic small vessel ischemic changes"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "G31.9",
+      "description": "Degenerative disease of nervous system, unspecified",
+      "evidence": [
+        "mild diffuse cerebral atrophy"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "R26.81",
+      "description": "Unsteadiness on feet",
+      "evidence": [
+        "gait unsteadiness",
+        "nearly fell twice"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "F32.9",
+      "description": "Depression, unspecified",
+      "evidence": [
+        "low mood",
+        "loneliness",
+        "PHQ-9: 7"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "E78.0",
+      "description": "Pure hypercholesterolemia",
+      "evidence": [
+        "LDL 135",
+        "Total Chol 210"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "R13.10",
+      "description": "Dysphagia, unspecified",
+      "evidence": [
+        "Moderate Oropharyngeal Dysphagia characterized by reduced lingual control and motility, delayed swallow initiation, and reduced laryngeal elevation."
+      ],
+      "type": "diagnosis"
+    }
+  ]
+}

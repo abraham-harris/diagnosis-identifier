@@ -1,0 +1,186 @@
+[
+  {
+    "code": "S72.142A",
+    "valid": true,
+    "llm_description": "Displaced intertrochanteric fracture of left femur, initial encounter for closed fracture",
+    "canonical_description": "Displaced intertrochanteric fracture of left femur, initial encounter for closed fracture",
+    "description_similarity": 1.0,
+    "evidence_count": 6
+  },
+  {
+    "code": "G20.9",
+    "valid": false,
+    "llm_description": "Parkinson's disease, unspecified",
+    "canonical_description": null,
+    "description_similarity": 0,
+    "evidence_count": 2
+  },
+  {
+    "code": "R29.6",
+    "valid": true,
+    "llm_description": "Repeated falls",
+    "canonical_description": "Repeated falls",
+    "description_similarity": 1.0,
+    "evidence_count": 0
+  },
+  {
+    "code": "M25.552",
+    "valid": true,
+    "llm_description": "Pain in left hip",
+    "canonical_description": "Pain in left hip",
+    "description_similarity": 1.0,
+    "evidence_count": 1
+  },
+  {
+    "code": "N17.9",
+    "valid": true,
+    "llm_description": "Acute kidney injury, unspecified",
+    "canonical_description": "Acute kidney failure, unspecified",
+    "description_similarity": 0.8923076923076924,
+    "evidence_count": 1
+  },
+  {
+    "code": "J69.0",
+    "valid": true,
+    "llm_description": "Aspiration pneumonia",
+    "canonical_description": "Pneumonitis due to inhalation of food and vomit",
+    "description_similarity": 0.26865671641791045,
+    "evidence_count": 2
+  },
+  {
+    "code": "F05.9",
+    "valid": false,
+    "llm_description": "Delirium, unspecified",
+    "canonical_description": null,
+    "description_similarity": 0,
+    "evidence_count": 2
+  },
+  {
+    "code": "I10.9",
+    "valid": false,
+    "llm_description": "Essential hypertension, unspecified",
+    "canonical_description": null,
+    "description_similarity": 0,
+    "evidence_count": 2
+  },
+  {
+    "code": "E03.9",
+    "valid": true,
+    "llm_description": "Hypothyroidism, unspecified",
+    "canonical_description": "Hypothyroidism, unspecified",
+    "description_similarity": 1.0,
+    "evidence_count": 4
+  },
+  {
+    "code": "M81.0",
+    "valid": true,
+    "llm_description": "Age-related osteoporosis without current pathological fracture",
+    "canonical_description": "Age-related osteoporosis without current pathological fracture",
+    "description_similarity": 1.0,
+    "evidence_count": 1
+  },
+  {
+    "code": "E55.9",
+    "valid": true,
+    "llm_description": "Vitamin D deficiency, unspecified",
+    "canonical_description": "Vitamin D deficiency, unspecified",
+    "description_similarity": 1.0,
+    "evidence_count": 3
+  },
+  {
+    "code": "R13.19",
+    "valid": true,
+    "llm_description": "Dysphagia, unspecified",
+    "canonical_description": "Other dysphagia",
+    "description_similarity": 0.4864864864864865,
+    "evidence_count": 2
+  },
+  {
+    "code": "F05.0",
+    "valid": false,
+    "llm_description": "Delirium due to known physiological condition",
+    "canonical_description": null,
+    "description_similarity": 0,
+    "evidence_count": 0
+  },
+  {
+    "code": "G20.0",
+    "valid": false,
+    "llm_description": "Parkinson's disease",
+    "canonical_description": null,
+    "description_similarity": 0,
+    "evidence_count": 5
+  },
+  {
+    "code": "S72.002A",
+    "valid": true,
+    "llm_description": "Fracture of unspecified part of neck of left femur, initial encounter",
+    "canonical_description": "Fracture of unspecified part of neck of left femur, initial encounter for closed fracture",
+    "description_similarity": 0.8734177215189873,
+    "evidence_count": 0
+  },
+  {
+    "code": "R25.1",
+    "valid": true,
+    "llm_description": "Tremor, unspecified",
+    "canonical_description": "Tremor, unspecified",
+    "description_similarity": 1.0,
+    "evidence_count": 1
+  },
+  {
+    "code": "G20",
+    "valid": true,
+    "llm_description": "Parkinson's disease",
+    "canonical_description": "Parkinson's disease",
+    "description_similarity": 1.0,
+    "evidence_count": 5
+  },
+  {
+    "code": "R26.81",
+    "valid": true,
+    "llm_description": "Unsteadiness on feet",
+    "canonical_description": "Unsteadiness on feet",
+    "description_similarity": 1.0,
+    "evidence_count": 2
+  },
+  {
+    "code": "F32.9",
+    "valid": true,
+    "llm_description": "Depressive episode, unspecified",
+    "canonical_description": "Major depressive disorder, single episode, unspecified",
+    "description_similarity": 0.7294117647058823,
+    "evidence_count": 3
+  },
+  {
+    "code": "I10",
+    "valid": true,
+    "llm_description": "Essential (primary) hypertension",
+    "canonical_description": "Essential (primary) hypertension",
+    "description_similarity": 1.0,
+    "evidence_count": 2
+  },
+  {
+    "code": "R13.10",
+    "valid": true,
+    "llm_description": "Dysphagia, unspecified",
+    "canonical_description": "Dysphagia, unspecified",
+    "description_similarity": 1.0,
+    "evidence_count": 0
+  },
+  {
+    "code": "J18.9",
+    "valid": true,
+    "llm_description": "Pneumonia, unspecified organism",
+    "canonical_description": "Pneumonia, unspecified organism",
+    "description_similarity": 1.0,
+    "evidence_count": 1
+  },
+  {
+    "code": "F05",
+    "valid": true,
+    "llm_description": "Delirium due to known physiological condition",
+    "canonical_description": "Delirium due to known physiological condition",
+    "description_similarity": 1.0,
+    "evidence_count": 1
+  }
+]
