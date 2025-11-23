@@ -1,0 +1,58 @@
+[
+  {
+    "code": "K80.0",
+    "valid": true,
+    "llm_description": "Calculus of gallbladder with acute inflammation",
+    "canonical_description": "Calculus of gallbladder with acute cholecystitis",
+    "description_similarity": 0.8,
+    "evidence_count": 2
+  },
+  {
+    "code": "E11.9",
+    "valid": true,
+    "llm_description": "Type 2 diabetes mellitus without complications",
+    "canonical_description": "Type 2 diabetes mellitus without complications",
+    "description_similarity": 1.0,
+    "evidence_count": 0
+  },
+  {
+    "code": "I10",
+    "valid": true,
+    "llm_description": "Essential (primary) hypertension",
+    "canonical_description": "Essential (primary) hypertension",
+    "description_similarity": 1.0,
+    "evidence_count": 0
+  },
+  {
+    "code": "K80.4",
+    "valid": true,
+    "llm_description": "Calculus of bile duct with cholangitis",
+    "canonical_description": "Calculus of bile duct with cholecystitis",
+    "description_similarity": 0.8974358974358975,
+    "evidence_count": 1
+  },
+  {
+    "code": "Z48.2",
+    "valid": true,
+    "llm_description": "Encounter for aftercare following surgery",
+    "canonical_description": "Encounter for aftercare following organ transplant",
+    "description_similarity": 0.8131868131868132,
+    "evidence_count": 1
+  },
+  {
+    "code": "K35.89",
+    "valid": true,
+    "llm_description": "Acute cholecystitis with cholelithiasis",
+    "canonical_description": "Other acute appendicitis",
+    "description_similarity": 0.3492063492063492,
+    "evidence_count": 1
+  },
+  {
+    "code": "G89.18",
+    "valid": true,
+    "llm_description": "Other acute postprocedural pain",
+    "canonical_description": "Other acute postprocedural pain",
+    "description_similarity": 1.0,
+    "evidence_count": 0
+  }
+]

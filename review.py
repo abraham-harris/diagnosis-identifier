@@ -44,7 +44,7 @@ def evaluate_icd10_output(json_path):
 
 if __name__ == "__main__":
     # Insert patient to check
-    patient = "patient1"
+    patient = "patient2"
     file_to_check = f"results/{patient}_icd10.json"
 
     results = evaluate_icd10_output(file_to_check)

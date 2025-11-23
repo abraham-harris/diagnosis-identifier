@@ -1,0 +1,53 @@
+{
+  "icd10": [
+    {
+      "code": "K80.0",
+      "description": "Acute calculous cholecystitis",
+      "evidence": [
+        "Physical exam was notable for a positive Murphy's sign.",
+        "Laboratory workup revealed a leukocytosis of 15.2 K/uL and elevated transaminases.",
+        "Abdominal ultrasound confirmed the diagnosis, showing a thickened gallbladder wall, pericholecystic fluid, and multiple gallstones.",
+        "Sonographic Murphy's sign"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "I10",
+      "description": "Essential (primary) hypertension",
+      "evidence": [
+        "History of hypertension"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "E11.9",
+      "description": "Type 2 diabetes mellitus without complications",
+      "evidence": [],
+      "type": "diagnosis"
+    },
+    {
+      "code": "K80.4",
+      "description": "Calculus of bile duct with cholangitis",
+      "evidence": [],
+      "type": "diagnosis"
+    },
+    {
+      "code": "Z48.2",
+      "description": "Encounter for surgical follow-up after surgical procedure",
+      "evidence": [],
+      "type": "diagnosis"
+    },
+    {
+      "code": "Z59.0",
+      "description": "Homelessness",
+      "evidence": [],
+      "type": "diagnosis"
+    },
+    {
+      "code": "R52.9",
+      "description": "Pain, unspecified",
+      "evidence": [],
+      "type": "diagnosis"
+    }
+  ]
+}

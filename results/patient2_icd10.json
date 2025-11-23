@@ -1,0 +1,55 @@
+{
+  "icd10": [
+    {
+      "code": "K80.0",
+      "description": "Calculus of gallbladder with acute inflammation",
+      "evidence": [
+        "Positive Murphy's sign",
+        "Responding well to conservative management"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "E11.9",
+      "description": "Type 2 diabetes mellitus without complications",
+      "evidence": [],
+      "type": "diagnosis"
+    },
+    {
+      "code": "I10",
+      "description": "Essential (primary) hypertension",
+      "evidence": [],
+      "type": "diagnosis"
+    },
+    {
+      "code": "K80.4",
+      "description": "Calculus of bile duct with cholangitis",
+      "evidence": [
+        "Patient admitted from ED with acute cholecystitis"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "Z48.2",
+      "description": "Encounter for aftercare following surgery",
+      "evidence": [
+        "Discharge planning initiated"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "K35.89",
+      "description": "Acute cholecystitis with cholelithiasis",
+      "evidence": [
+        "Abdominal ultrasound confirmed the diagnosis of acute cholecystitis"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "G89.18",
+      "description": "Other acute postprocedural pain",
+      "evidence": [],
+      "type": "diagnosis"
+    }
+  ]
+}

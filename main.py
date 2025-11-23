@@ -82,7 +82,7 @@ if __name__ == "__main__":
             med_record = f.read()
 
         # Chunk the text (to help fit in context windows)
-        chunks = chunk_paragraphs(med_record, max_chars=15000)
+        chunks = chunk_paragraphs(med_record, max_chars=10000)
 
         chunk_outputs = [] # collect output from each chunk
         for chunk in chunks:
