@@ -68,7 +68,7 @@ def chunk_paragraphs(text, max_chars=20000):
 
 if __name__ == "__main__":
     # Set patient
-    patient = "patient2"
+    patient = "patient3"
 
     # Loop through data files
     outputs = []

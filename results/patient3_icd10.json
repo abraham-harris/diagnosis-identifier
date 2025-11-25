@@ -1,13 +1,29 @@
 {
   "icd10": [
     {
-      "code": "K80.0",
-      "description": "Acute calculous cholecystitis",
+      "code": "K81.0",
+      "description": "Acute cholecystitis",
       "evidence": [
-        "Physical exam was notable for a positive Murphy's sign.",
-        "Laboratory workup revealed a leukocytosis of 15.2 K/uL and elevated transaminases.",
-        "Abdominal ultrasound confirmed the diagnosis, showing a thickened gallbladder wall, pericholecystic fluid, and multiple gallstones.",
-        "Sonographic Murphy's sign"
+        "positive Murphy's sign",
+        "elevated transaminases",
+        "thickened gallbladder wall",
+        "multiple gallstones",
+        "fevers",
+        "nausea",
+        "leukocytosis of 15.2 K/uL",
+        "severe, constant right upper quadrant pain",
+        "pericholecystic fluid"
+      ],
+      "type": "diagnosis"
+    },
+    {
+      "code": "E11.9",
+      "description": "Type 2 diabetes mellitus without complications",
+      "evidence": [
+        "Glucose 185",
+        "Managed with metformin",
+        "Admission glucose was 185 mg/dL",
+        "Currently managed with sliding scale insulin"
       ],
       "type": "diagnosis"
     },
@@ -15,38 +31,41 @@
       "code": "I10",
       "description": "Essential (primary) hypertension",
       "evidence": [
-        "History of hypertension"
+        "Hypertension",
+        "history of HTN",
+        "History of hypertension",
+        "BP 155/90"
       ],
       "type": "diagnosis"
     },
     {
-      "code": "E11.9",
-      "description": "Type 2 diabetes mellitus without complications",
-      "evidence": [],
-      "type": "diagnosis"
-    },
-    {
-      "code": "K80.4",
-      "description": "Calculus of bile duct with cholangitis",
-      "evidence": [],
-      "type": "diagnosis"
-    },
-    {
-      "code": "Z48.2",
-      "description": "Encounter for surgical follow-up after surgical procedure",
-      "evidence": [],
+      "code": "K80.00",
+      "description": "Calculus of gallbladder with acute cholecystitis without obstruction",
+      "evidence": [
+        "Leukocytosis",
+        "RUQ tenderness",
+        "Acute calculous cholecystitis",
+        "Transaminitis"
+      ],
       "type": "diagnosis"
     },
     {
       "code": "Z59.0",
       "description": "Homelessness",
-      "evidence": [],
+      "evidence": [
+        "discharge to a local medical respite shelter",
+        "Case manager, Sarah, at bedside speaking with patient about housing situation"
+      ],
       "type": "diagnosis"
     },
     {
-      "code": "R52.9",
-      "description": "Pain, unspecified",
-      "evidence": [],
+      "code": "G89.18",
+      "description": "Postprocedural pain",
+      "evidence": [
+        "significant, uncontrolled pain",
+        "high doses of IV hydromorphone",
+        "Patient-Controlled Analgesia (PCA) pump"
+      ],
       "type": "diagnosis"
     }
   ]
